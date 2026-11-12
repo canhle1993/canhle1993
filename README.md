@@ -6,9 +6,9 @@ I build ERP systems and web applications with Spring Boot, ReactJS, AWS and REST
 
 My goal is to grow into a backend engineer who designs systems that scale, are secure and keep running.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D5DFC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://canhle1993.github.io/canhle-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D5DFC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://canhle.pages.dev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aplevancanh1993@gmail.com)
-[![CV](https://img.shields.io/badge/Download%20CV-222222?style=for-the-badge&logo=readdotcv&logoColor=white)](https://canhle1993.github.io/canhle-portfolio/assets/Le-Van-Canh-CV.pdf)
+[![CV](https://img.shields.io/badge/Download%20CV-222222?style=for-the-badge&logo=readdotcv&logoColor=white)](https://canhle.pages.dev/assets/Le-Van-Canh-CV.pdf)
 
 ## Highlights
 
@@ -58,11 +58,11 @@ My goal is to grow into a backend engineer who designs systems that scale, are s
 | [**PharmaTech**](https://github.com/canhle1993/PharmaTech-showcase) | Pharmaceutical equipment platform with quotes, deposit ordering, Stripe, recruitment and real-time chat | Angular, NestJS, MongoDB |
 | [**Library Management**](https://github.com/canhle1993/LibraryManagement-showcase) | Desktop app for rentals, QR inventory, audio book descriptions and reports. Team Leader, 98/100 | Java Swing, SQL Server |
 | [**Bakerz Bite**](https://github.com/canhle1993/Bakerz-showcase) | Bakery e-commerce with health-based suggestions, rewards and Power BI reports | Laravel, MySQL |
-| [**Portfolio**](https://github.com/canhle1993/canhle-portfolio) | My trilingual (EN / VI / JA) portfolio site, plain HTML, CSS and JavaScript | HTML, CSS, JS |
+| [**Portfolio**](https://canhle.pages.dev/) | My trilingual (EN / VI / JA) portfolio site, plain HTML, CSS and JavaScript | HTML, CSS, JS |
 
 Most project source code is private. Each showcase repo has screenshots, system flows and a summary of my part of the work, and I am happy to walk through the code in an interview.
 
 ## Get in touch
 
-- 🌐 Portfolio: [canhle1993.github.io/canhle-portfolio](https://canhle1993.github.io/canhle-portfolio/)
+- 🌐 Portfolio: [canhle.pages.dev](https://canhle.pages.dev/)
 - 📧 Email: [aplevancanh1993@gmail.com](mailto:aplevancanh1993@gmail.com)
